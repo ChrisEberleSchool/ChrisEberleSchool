@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisEberle
-- 👀 I’m interested in Java and CPP graphics and low level programming
+- 👀 I’m interested in everything softare development!
 - 📫 How to reach me (email: ceber042@mtroyal.ca) (instagram: @chris_eb3rle)
 
 <!---
