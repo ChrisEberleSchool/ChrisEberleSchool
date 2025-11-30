@@ -21,7 +21,7 @@
 <div align="center">  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,typescript&perline=6" height="55" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,typescript,mysql&perline=6" height="55" />
 </p>
 
 
