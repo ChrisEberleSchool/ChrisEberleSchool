@@ -1,6 +1,6 @@
 <!-- Banner container -->
 <div style="position: relative; display: inline-block; text-align: center;">
-  <img src="./assets/banner.png" alt="Header banner" />
+  <img src="./assets/profile-banner.png" alt="Header banner" />
 </div>
 
 <div style="position: relative; display: inline-block; text-align: center;">
