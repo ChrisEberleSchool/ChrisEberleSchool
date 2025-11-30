@@ -6,7 +6,9 @@
 <div style="position: relative; display: inline-block; text-align: center;">
   <img src="./assets/terminal.png" alt="Header banner" />
 </div>
-  
+
+---
+
 ### Employer?
 
 > [!IMPORTANT]  
@@ -37,5 +39,4 @@
   <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,git&perline=6" height="55" />
 </p>
 
----
 </div>
